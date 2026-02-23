@@ -179,3 +179,7 @@ The access token allows you to make requests to the API on a behalf of a user. Y
 
 	GET http(s)://url.to.our.api/api/v1/user
 	Authorization: Bearer <base64-encoded access_token value>
+
+## Windows automation helper (HubSpot)
+
+If you need Windows desktop/browser automation for HubSpot daily sends, see `automation/hubspot/README.md` for a Python + Playwright starter and Task Scheduler setup.
