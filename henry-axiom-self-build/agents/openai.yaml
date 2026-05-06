@@ -1,0 +1,6 @@
+interface:
+  display_name: "Henry AXIOM"
+  short_description: "Build and query a scoped machine knowledge index"
+  default_prompt: "Use $henry-axiom-self-build to scaffold or run a scoped AXIOM memory index safely."
+policy:
+  allow_implicit_invocation: false
