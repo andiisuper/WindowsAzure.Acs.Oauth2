@@ -2,6 +2,16 @@
 
 Local-first Codex skill for building and querying a scoped machine knowledge index.
 
+## Founder Mission
+
+Henry AXIOM is part of Di Tran's broader human-centered AI mission: build an army of practical AI agents that automates friction in daily life while elevating human dignity, quality of life, wellness, fitness, health, learning, and meaningful work.
+
+The vision is not AI replacing humanity. The vision is AI serving humanity: organizing knowledge, reducing repetitive labor, protecting sensitive information, helping people make better decisions, and giving families, students, workers, founders, and communities more time for the human things that matter.
+
+Henry, Codex, and the broader agent network are designed as collaborators. They help people understand their own systems, remember what matters, automate what is safe to automate, and humanize technology so it becomes more useful, trustworthy, and life-giving.
+
+See `references/founder_mission.md` for the fuller mission statement.
+
 ## Contents
 
 - `SKILL.md`
