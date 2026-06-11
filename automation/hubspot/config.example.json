@@ -1,0 +1,9 @@
+{
+  "email_url": "https://app.hubspot.com/marketing-email/<portal-id>/edit/<email-id>",
+  "target_list_name": "New Prospect",
+  "user_data_dir": "./.hubspot-profile",
+  "headless": false,
+  "slow_mo_ms": 50,
+  "timeout_ms": 45000,
+  "screenshot_path": "./last-run.png"
+}
